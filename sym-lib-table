@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TLC551CP")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/symbol/TLC551CP.kicad_sym")(options "")(descr ""))
+  (lib (name "EG1218")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/symbol/EG1218.kicad_sym")(options "")(descr ""))
+)
